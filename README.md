@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1/trtglhdry-commits/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1/rank.svg)](https://make.fun/bounty/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1)
 [![reward](https://make.fun/badge/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1/trtglhdry-commits/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1/reward.svg)](https://make.fun/bounty/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1?utm_source=github&utm_medium=readme&utm_campaign=u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1)
 
-Tiny Bot: an hourly moving-average crossover paper trader for make.fun's "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana" bounty. One program, under 50 lines of strategy code, Node 22 stdlib only — no network, no clock, no randomness.
+Tiny Bot: an hourly moving-average crossover paper trader for make.fun's "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana" bounty. One small program, Node 22 stdlib only — no network, no clock, no randomness.
 
 ## Strategy
 
